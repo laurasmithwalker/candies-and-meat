@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Candy Feature feature.
+ */
+
+include_once('candy_feature.features.inc');
